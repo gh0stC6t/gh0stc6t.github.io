@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://gh0stc6t.github.io</id>
+    <title>GhostCat&apos;s Blog</title>
+    <updated>2023-06-24T04:20:59.607Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://gh0stc6t.github.io"/>
+    <link rel="self" href="https://gh0stc6t.github.io/atom.xml"/>
+    <subtitle>Stay cool, stay alone😶.</subtitle>
+    <logo>https://gh0stc6t.github.io/images/avatar.png</logo>
+    <icon>https://gh0stc6t.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2023, GhostCat&apos;s Blog</rights>
+</feed>
